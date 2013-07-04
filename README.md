@@ -8,12 +8,13 @@ http://www.sgtwilko.f9.co.uk/bluelava/
 
 http://www.lickey.com/flipit/
 
-http://www.linuxha.com/
-
 http://www.aboutdebian.com/x10.htm
 
 ---
 
+Download bottlerocket from:
+
+http://www.linuxha.com/bottlerocket/
 
 TODO
 ====
